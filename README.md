@@ -1,4 +1,8 @@
 # Erin Schaffer's Portfolio
 
 ## Azure for Students
-hi
+
+
+## Yelp Proposal
+
+## Cree and Dams Research Narrative
