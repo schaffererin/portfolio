@@ -16,6 +16,10 @@ After finding my passion for technical writing, I began teaching myself the basi
 
 As a member of the Yelp Elite Squad, it is safe to say I really enjoy Yelp. The pandemic has changed what I prioritize when browsing reviews of businesses and restaurants. There is currently no major reviews service with granular metrics that focus on COVID-19 safety. By adding a new user-given COVID-19 rating feature to every Yelp page, Yelp can allow their users to continue leaving comprehensive and accurate reviews, so users can safely support local businesses and restaurants.
 
+## Seismic Refraction Technical Description
+
+In my tech comm course at Iowa State University, I served as the lead editor and facilitator for a group of engineering and geology students for a group project. This technical description discusses refractive seismic surveys and their importance.
+
 ## Cree and Dams Research Narrative
 
 This research narrative details the unjust treatment of the Cree Nation by the Canadian government, Hydro-Quebec, and the James Bay Energy Corporation.
