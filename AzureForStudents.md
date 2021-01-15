@@ -1,4 +1,4 @@
-# Deploying your Python Script to the Cloud with Azure for Students
+# Deploying Your Python Script to the Cloud with Azure for Students
 
 **Meet Megan.**
 
