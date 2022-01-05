@@ -68,4 +68,3 @@ Copy and paste your Python file from normal desktop to virtual machine desktop.
 When done running your script, stop your virtual machine to stop being charged.
 1. On [Azure Portal](https://portal.azure.com), select your virtual machine.
 2. Select **stop** > **OK**.
-
