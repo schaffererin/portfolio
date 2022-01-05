@@ -6,7 +6,13 @@ I grew up in Iowa, wanting to be a teacher like my mom. When I got to Iowa State
 
 I finished my studies at Iowa State in English and Spanish and moved out to Seattle for the [University of Washington's Professional Technical Writing certification program](https://www.pce.uw.edu/certificates/professional-technical-writing). 
 
-Below I've shared the inspiration behind my portfolio projects.
+Below I've shared links to some of my favorite projects I've worked on with my current company, Educative.io, as well as the inspiration behind my portfolio projects.
+
+## Blogs
+
+* [The complete guide to system design in 2022](https://www.educative.io/blog/complete-guide-to-system-design)
+* [Python REST API tutorial: Getting started with FastAPI](https://www.educative.io/blog/python-fastapi-tutorial)
+* [Ageism in tech: A history, what we can do to help, and more](https://www.educative.io/blog/ageism-in-tech)
 
 ## Azure for Students
 
