@@ -4,9 +4,9 @@ Hi! My name is Erin.
 
 I grew up in Iowa, and all my life, I wanted to be a teacher like my mom. When I got to Iowa State University, I decided to pursue English and Spanish education. Throughout my studies, I realized that the education field wasn't what I dreamt it to be, so I sat down with myself to determine my goals and interests, which led me to enroll in a technical writing course. That course helped me realize that technical writing was what I wanted to do; it forced me to write in a way that I never had before, and that challenge excited me (and to this day, it still excites me).
 
-I finished my studies at Iowa State in English and Spanish and moved out to Seattle for the [University of Washington's Professional Technical Writing certification program](https://www.pce.uw.edu/certificates/professional-technical-writing). I now work at an ed-tech company based in Bellevue, WA as the lead B2C technical content marketing specialist and the blog team lead.
+I finished my studies at Iowa State in English and Spanish and moved out to Seattle for the [University of Washington's Professional Technical Writing certification program](https://www.pce.uw.edu/certificates/professional-technical-writing). I'm now a vendor on the Azure Resource Manager content development team at Microsoft.
 
-Below I've shared links to some of my favorite projects I've worked on with my current company, Educative.io, as well as the inspiration behind my portfolio projects.
+Below I've shared links to some of my favorite blog articles I've worked on, as well as the inspiration behind my portfolio projects.
 
 ## Blogs
 
