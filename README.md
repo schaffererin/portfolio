@@ -1,4 +1,4 @@
-# Erin Schaffer's Portfolio
+# Erin Schaffer's portfolio
 
 Hi! My name is Erin. 
 
@@ -6,7 +6,13 @@ I grew up in Iowa, and all my life, I wanted to be a teacher like my mom. When I
 
 I finished my studies at Iowa State in English and Spanish and moved out to Seattle for the [University of Washington's Professional Technical Writing certification program](https://www.pce.uw.edu/certificates/professional-technical-writing). I'm now a Content Developer 2 for Azure Kubernetes Service (AKS) at Microsoft.
 
-I've shared links to some of my favorite blog articles I've worked on, as well as the inspiration behind my portfolio projects.
+I've shared links to some of my AKS articles, some of my favorite blog pieces I've worked on, and the inspiration behind my portfolio projects.
+
+## AKS
+
+* [What is Azure Kubernetes Service (AKS)?](https://learn.microsoft.com/en-us/azure/aks/what-is-aks)
+* [Best practices for performance and scaling for large workloads in Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/best-practices-performance-scale-large)
+* [Deploy an AI model on Azure Kubernetes Service (AKS) with the AI toolchain operator](https://learn.microsoft.com/en-us/azure/aks/ai-toolchain-operator)
 
 ## Blogs
 
@@ -18,14 +24,14 @@ I've shared links to some of my favorite blog articles I've worked on, as well a
 
 After finding my passion for technical writing, I began teaching myself the basics of Python and decided to enroll in a Python programming course at Iowa State University. As your typical college student, I did not have the fastest computer, and that became very clear when running my scripts. After my course ended, I learned that most major cloud providers give students free credits to apply towards their services. Out of curiosity, I went through the process and realized it would have been an easy way to run my scripts faster. I documented my steps, hoping to help college students in similar situations take advantage of this free resource.
 
-## Yelp Proposal
+## Yelp proposal
 
 As a member of the Yelp Elite Squad, it is safe to say I really enjoy Yelp. The pandemic has changed what I prioritize when browsing reviews of businesses and restaurants. There is currently no major reviews service with granular metrics that focus on COVID-19 safety. By adding a new user-given COVID-19 rating feature to every Yelp page, Yelp can allow their users to continue leaving comprehensive and accurate reviews, so users can safely support local businesses and restaurants.
 
-## Booking a Ferry Trip with Washington State Ferries
+## Booking a ferry trip with Washington State Ferries
 
 In the Professional Technical Writing program at the University of Washington, we were assigned a how-to guide for booking a ferry trip with Washington State Ferries. In our assignment description, we were instructed to create clear documentation for booking a trip that improved upon the existing documentation in place on the official website.
 
-## Cree and Dams Research Narrative
+## Cree and Dams research narrative
 
 This research narrative details the unjust treatment of the Cree Nation by the Canadian government, Hydro-Quebec, and the James Bay Energy Corporation.
