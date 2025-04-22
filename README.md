@@ -14,14 +14,12 @@ Below, I've shared links to just some of the projects I've worked on: AKS conten
 
 ## AKS
 
-* [What is Azure Kubernetes Service (AKS)?](https://learn.microsoft.com/en-us/azure/aks/what-is-aks)
 * [Best practices for performance and scaling for large workloads in Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/best-practices-performance-scale-large)
 * [Deploy an AI model on Azure Kubernetes Service (AKS) with the AI toolchain operator](https://learn.microsoft.com/en-us/azure/aks/ai-toolchain-operator)
 
 ## Blogs
 
 * [From teaching to tech: 5 ways my education background helps me in my tech career](https://medium.com/words-in-tech/from-teaching-to-tech-5-ways-my-education-background-helps-me-in-my-tech-career-1d0e2648c24c)
-* [The complete guide to system design in 2022](https://www.educative.io/blog/complete-guide-to-system-design)
 * [Ageism in tech: A history, what we can do to help, and more](https://www.educative.io/blog/ageism-in-tech)
 
 ## Azure for Students
