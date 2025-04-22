@@ -2,7 +2,7 @@
 
 Hi! My name is Erin. 
 
-I grew up in Iowa, and ever since I was a little girl, I'd wanted to be a teacher like my mom. Yes, of course, I toyed with the idea of being a veterinarian, a marine biologist, a detective, but underneath it all, I knew the truth: I'd be a teacher.
+Growing up, I always wanted to be a teacher like my mom. Yes, of course, I toyed with the idea of being a veterinarian, a marine biologist, a detective, but underneath it all, I knew the truth: I'd be a teacher.
 
 When I got to Iowa State University, I decided to pursue English and Spanish education. Throughout my studies, I realized that the education field wasn't what I dreamt it to be. I was a bit of a wreck. _What did I want to do with my life now that I've found that the thing I thought I wanted wasn't right for me?_
 
