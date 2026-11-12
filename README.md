@@ -10,7 +10,7 @@ Below are some of the projects I've worked on, from AKS documentation and blog p
 
 - [What is Azure Kubernetes Service (AKS)?](https://learn.microsoft.com/en-us/azure/aks/what-is-aks)
 - [Multi-region deployment models for Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/reliability-multi-region-deployment-models)
-- [Replicate an AWS web application with AWS WAF in Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/eks-web-overview) (contributing writer, AWS-to-Azure migration series)
+- [Replicate an AWS web application with AWS WAF in Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/eks-web-overview)
 - [Best practices for performance and scaling for large workloads in Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/best-practices-performance-scale-large)
 - [Deploy an AI model on Azure Kubernetes Service (AKS) with the AI toolchain operator](https://learn.microsoft.com/en-us/azure/aks/ai-toolchain-operator)
 
