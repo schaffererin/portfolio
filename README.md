@@ -2,7 +2,7 @@
 
 Hi! I'm Erin, a technical writer and knowledge manager. I make complex technology clear, whether a person or an AI is doing the reading.
 
-I'm currently a Knowledge Manager at Microsoft, where I lead knowledge strategy across a portfolio of 10 services and 10 subservices. Before that, I spent four years as a Content Developer on [Azure Kubernetes Service (AKS)](https://learn.microsoft.com/azure/aks/what-is-aks), leading a 350+ article doc set and partnering with product, engineering, and support teams to keep it accurate through constant releases. Lately, much of my work has focused on how documentation performs in an AI-driven world: optimizing content for retrieval-augmented generation (RAG) and improving the quality of AI-generated answers.
+I'm currently a Knowledge Manager at Microsoft, where I lead knowledge strategy across a portfolio of Azure services. Before that, I spent four years as a Content Developer on [Azure Kubernetes Service (AKS)](https://learn.microsoft.com/azure/aks/what-is-aks), leading a 350+ article doc set and partnering with product, engineering, and support teams to keep it accurate through constant releases. Lately, much of my work has focused on how documentation performs in an AI-driven world: optimizing content for retrieval-augmented generation (RAG) and improving the quality of AI-generated answers.
 
 Below are some of the projects I've worked on, from AKS documentation and blog posts to the portfolio projects that started it all.
 
